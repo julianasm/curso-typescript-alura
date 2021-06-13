@@ -7,6 +7,5 @@ class Negociacoes {
     }
     paraArray() {
         return [].concat(this._negociacoes);
-        // tipagem de retornos eh uma boa pratica
     }
 }
